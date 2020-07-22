@@ -1,6 +1,6 @@
 **Protractor TypeScript Starter Project**
 
-This github page contains a started project for Protractor. Protractor is a popular end-to-end test framework for Angular applications. See: https://www.protractortest.org/#/
+This github page contains a starter project for Protractor. Protractor is a popular end-to-end test framework for Angular applications. See: https://www.protractortest.org/#/
 It also contains sample test for the following site: https://juliemr.github.io/protractor-demo/
 It uses the Page Object Model (POM) to expose the page. 
 It uses TypeScript as the language of choice. 
