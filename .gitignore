@@ -1,0 +1,4 @@
+reports/
+built/
+node_modules/
+.idea/
